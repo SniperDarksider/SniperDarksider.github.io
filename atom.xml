@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kay&#39;s blog</title>
+  <subtitle>Stay hungry, stay foolish</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="SniperDarksider.github.io/"/>
+  <updated>2017-06-16T08:46:22.513Z</updated>
+  <id>SniperDarksider.github.io/</id>
+  
+  <author>
+    <name>Zhiyuan Xu</name>
+    <email>zhiyuanxu1995@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Jay&#39;s Blog</title>
+    <link href="SniperDarksider.github.io/2017/06/16/Personal-Information/"/>
+    <id>SniperDarksider.github.io/2017/06/16/Personal-Information/</id>
+    <published>2017-06-16T08:04:15.410Z</published>
+    <updated>2017-06-16T08:46:22.513Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Personal-Information"><a href="#Personal-Information" class="headerlink" title="Personal Information"></a>Personal Information</h3><p>Welcome to <a href="https://SniperDarksider.github.io" target="_blank" rel="external">Jay’s Blog</a>! My name is Zhiyuan. I am currently senior in Tongji University.I am interested in statistic machine learning, deep learning, robot intelligence. If you want more info, search “SniperDarksider” on github. Thank you for your visiting!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Personal-Information&quot;&gt;&lt;a href=&quot;#Personal-Information&quot; class=&quot;headerlink&quot; title=&quot;Personal Information&quot;&gt;&lt;/a&gt;Personal Information&lt;/h3&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="Personal Information" scheme="SniperDarksider.github.io/tags/Personal-Information/"/>
+    
+  </entry>
+  
+</feed>
